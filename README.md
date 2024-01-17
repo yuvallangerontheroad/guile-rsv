@@ -5,6 +5,8 @@
 - https://codeberg.org/kakafarm/guile-rsv/
 - https://kaka.farm/stagit/guile-rsv/log.html
 
+For more information: https://sfconservancy.org/GiveUpGitHub/
+
 ## Description:
 
 You can read more about it on the [RSV Specification][1] and watch the
